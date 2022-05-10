@@ -1,6 +1,6 @@
 const botaoSortear = document.querySelector("div.box button")
 var nomeSorteado = document.querySelector("div.box h1")
-var roleta = ['Geter','André Pego','Dalila','Luiz Carlos','Loren','Lara Aniceto','Lara Grobério', 'Thalmo','Eliz','Borgo','Willian','Roberta','Mila','Stéfani','Dayse','Evilasio','Maria Luiza','Celeste','Duque','Ricieri','Vitor','Verônica','Kézia','Luiz Otávio Calado','Henrique Henning', 'Amanda Schaffert','Kamilla', 'Alessandro', 'Priscila','Lucas Oliveira','Alê Prandi','Alê Mariani', 'Alessandro Abreu','Luiz Roberto','Lilian']
+var roleta = ['André Pego','Dalila','Luiz Carlos','Loren','Lara Aniceto','Lara Grobério', 'Thalmo','Eliz','Borgo','Willian','Roberta','Mila','Stéfani','Dayse','Evilasio','Maria Luiza','Celeste','Duque','Ricieri','Vitor','Verônica','Kézia','Luiz Otávio Calado','Henrique Henning', 'Amanda Schaffert','Kamilla', 'Alessandro', 'Priscila','Lucas Oliveira','Alê Prandi','Alê Mariani', 'Alessandro Abreu','Luiz Roberto','Lilian']
 
 
 botaoSortear.addEventListener("click", () => {
